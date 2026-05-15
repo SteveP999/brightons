@@ -11,6 +11,14 @@
   },
   "tracks": [
     {
+      "title": "Boardwalk Heartbeat",
+      "artist": "Brightons",
+      "album": "The Last Good Summer",
+      "cover": "images/covers/brightons-boardwalk-heartbeat-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/3cyjio37a6jsqnsdnasd7/brightons-boardwalk-heartbeat-mp3.mp3?rlkey=s4vrobpup2n0zuft32fxtx62z&raw=1",
+      "videos": []
+    },
+    {
       "title": "Yesterday's Girl",
       "artist": "Brightons",
       "album": "The Last Good Summer",
