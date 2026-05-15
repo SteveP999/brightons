@@ -836,6 +836,25 @@ footer{background:var(--black);border-top:1px solid var(--line);padding:4rem 2re
   #player{grid-template-columns:1fr;padding:.9rem 1rem}
   .p-extra{display:none}
 }
+
+/* HTR LOCKED GLOBAL STANDARD OVERRIDE - past/present/future */
+#latest-single{padding:1.65rem 0!important;}
+.latest-inner{max-width:1040px!important;padding:0 2rem!important;grid-template-columns:170px 1fr!important;gap:1.75rem!important;align-items:center!important;}
+.latest-cover{width:100%!important;max-width:170px!important;aspect-ratio:1!important;object-fit:cover!important;box-shadow:0 0 28px var(--accent-glow),0 12px 34px rgba(0,0,0,.68)!important;}
+.latest-badge,.album-badge{margin-bottom:.65rem!important;padding:.24rem .75rem!important;}
+.latest-title{font-size:clamp(1.55rem,2.8vw,2.35rem)!important;margin-bottom:.18rem!important;line-height:1.05!important;}
+.latest-sub,.album-artist{margin-bottom:.85rem!important;}
+.latest-play-btn{padding:.58rem 1.35rem!important;font-size:.68rem!important;}
+.lower-video-section{background:linear-gradient(to bottom,rgba(0,0,0,.38),rgba(0,0,0,.58)),var(--video-bg) center center / cover fixed no-repeat,var(--black)!important;}
+.lower-video-section > .section-header{background:color-mix(in srgb,var(--black) 94%, transparent)!important;border-top:1px solid var(--line)!important;border-bottom:1px solid var(--line)!important;padding:2.1rem 2rem 1.95rem!important;margin-bottom:3rem!important;}
+.lower-video-section > .section-header .section-eyebrow{display:none!important;}
+.video-grid{display:flex!important;flex-direction:column!important;gap:2rem!important;max-width:920px!important;margin:0 auto!important;padding:1.5rem!important;}
+.video-card{width:100%!important;box-shadow:0 22px 80px rgba(0,0,0,.42)!important;}
+#bio{background:linear-gradient(to bottom,rgba(0,0,0,.42),rgba(0,0,0,.58)),var(--video-bg) center center / cover fixed no-repeat,var(--black)!important;}
+.bio-logo{display:none!important;}
+.photo-strip{background:var(--video-bg) center center / cover fixed no-repeat!important;}
+footer{background:linear-gradient(to bottom,rgba(0,0,0,.28),rgba(0,0,0,.52)),var(--video-bg) center center / cover fixed no-repeat,transparent!important;padding:2.35rem 2rem 2.75rem!important;}
+
 </style>
 </head>
 <body>
@@ -918,7 +937,7 @@ footer{background:var(--black);border-top:1px solid var(--line);padding:4rem 2re
 </div>
 
 <audio id="audio"></audio>
-<script id="artist-data" type="application/json">{"artist": {"id": "brightons", "name": "Brightons", "genre": "50s/60s Pop", "tagline": "Brightons is part of the Hello Texas Records roster.", "bio": "Brightons is part of the Hello Texas Records roster.", "theme": "default", "logo": "images/logos/brightons-logo.png", "hero": "images/artist/brightons-hero-photo.png", "discographyBg": "images/artist/brightons-discography-bg.png", "videoBg": "images/artist/brightons-video-bg.png", "photos": ["images/artist/brightons-photo-1.png", "images/artist/brightons-photo-2.png", "images/artist/brightons-photo-3.png"]}, "latest": {"title": "Yesterday's Girl", "artist": "Brightons", "album": "The Last Good Summer", "type": "Latest Single", "cover": "images/covers/brightons-yesterdays-girl-cover.png", "image": "images/covers/brightons-yesterdays-girl-cover.png", "audio": "https://www.dropbox.com/scl/fi/q5y6ly4jo82f5f0a6wmpx/brightons-yesterdays-girl-mp3.mp3?rlkey=4zf0wqtnhfxass2xr1mcrjlnx&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/q5y6ly4jo82f5f0a6wmpx/brightons-yesterdays-girl-mp3.mp3?rlkey=4zf0wqtnhfxass2xr1mcrjlnx&raw=1", "videos": []}, "songs": [{"id": "brightons-yesterday-s-girl", "num": "01", "title": "Yesterday's Girl", "artist": "Brightons", "album": "The Last Good Summer", "trackNumber": 1, "albumOrder": 1, "albumCover": "images/covers/brightons-yesterdays-girl-cover.png", "type": "single", "isLatest": true, "cover": "images/covers/brightons-yesterdays-girl-cover.png", "audio": "https://www.dropbox.com/scl/fi/q5y6ly4jo82f5f0a6wmpx/brightons-yesterdays-girl-mp3.mp3?rlkey=4zf0wqtnhfxass2xr1mcrjlnx&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/q5y6ly4jo82f5f0a6wmpx/brightons-yesterdays-girl-mp3.mp3?rlkey=4zf0wqtnhfxass2xr1mcrjlnx&raw=1", "videos": [], "includeOnRadio": true, "includeOnHomepage": true, "explicit": false, "tags": []}], "hasVideoSection": true}</script>
+<script id="artist-data" type="application/json">{"artist": {"id": "brightons", "name": "Brightons", "genre": "50s/60s Pop", "tagline": "Brightons is part of the Hello Texas Records roster.", "bio": "Brightons is part of the Hello Texas Records roster.", "theme": "default", "logo": "images/logos/brightons-logo.png", "hero": "images/artist/brightons-hero-photo.png", "discographyBg": "images/artist/brightons-discography-bg.png", "videoBg": "images/artist/brightons-video-bg.png", "photos": ["images/artist/brightons-photo-1.png", "images/artist/brightons-photo-2.png", "images/artist/brightons-photo-3.png"]}, "latest": {"title": "Yesterday's Girl", "artist": "Brightons", "album": "The Last Good Summer", "type": "Latest Single", "cover": "images/covers/brightons-yesterdays-girl-cover.png", "image": "images/covers/brightons-yesterdays-girl-cover.png", "audio": "https://www.dropbox.com/scl/fi/q5y6ly4jo82f5f0a6wmpx/brightons-yesterdays-girl-mp3.mp3?rlkey=4zf0wqtnhfxass2xr1mcrjlnx&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/q5y6ly4jo82f5f0a6wmpx/brightons-yesterdays-girl-mp3.mp3?rlkey=4zf0wqtnhfxass2xr1mcrjlnx&raw=1", "videos": []}, "songs": [{"id": "brightons-yesterday-s-girl", "num": "01", "title": "Yesterday's Girl", "artist": "Brightons", "album": "The Last Good Summer", "trackNumber": 1, "albumOrder": 1, "albumCover": "images/covers/brightons-the-last-good-summer-ALBUM-cover.png", "type": "single", "isLatest": true, "cover": "images/covers/brightons-yesterdays-girl-cover.png", "audio": "https://www.dropbox.com/scl/fi/q5y6ly4jo82f5f0a6wmpx/brightons-yesterdays-girl-mp3.mp3?rlkey=4zf0wqtnhfxass2xr1mcrjlnx&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/q5y6ly4jo82f5f0a6wmpx/brightons-yesterdays-girl-mp3.mp3?rlkey=4zf0wqtnhfxass2xr1mcrjlnx&raw=1", "videos": [], "includeOnRadio": true, "includeOnHomepage": true, "explicit": false, "tags": []}], "hasVideoSection": true}</script>
 <script>
 const DATA = JSON.parse(document.getElementById('artist-data').textContent);
 const SONGS = DATA.songs || [];
