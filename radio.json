@@ -1,0 +1,22 @@
+{
+  "artist": "Brightons",
+  "latestUrl": "latest.json",
+  "featuredTrack": {
+    "title": "Yesterday's Girl",
+    "artist": "Brightons",
+    "album": "The Last Good Summer",
+    "cover": "images/covers/brightons-yesterdays-girl-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/q5y6ly4jo82f5f0a6wmpx/brightons-yesterdays-girl-mp3.mp3?rlkey=4zf0wqtnhfxass2xr1mcrjlnx&raw=1",
+    "videos": []
+  },
+  "tracks": [
+    {
+      "title": "Yesterday's Girl",
+      "artist": "Brightons",
+      "album": "The Last Good Summer",
+      "cover": "images/covers/brightons-yesterdays-girl-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/q5y6ly4jo82f5f0a6wmpx/brightons-yesterdays-girl-mp3.mp3?rlkey=4zf0wqtnhfxass2xr1mcrjlnx&raw=1",
+      "videos": []
+    }
+  ]
+}

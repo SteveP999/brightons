@@ -1,0 +1,22 @@
+[
+  {
+    "id": "brightons-yesterday-s-girl",
+    "num": "01",
+    "title": "Yesterday's Girl",
+    "artist": "Brightons",
+    "album": "The Last Good Summer",
+    "trackNumber": 1,
+    "albumOrder": 1,
+    "albumCover": "images/covers/brightons-yesterdays-girl-cover.png",
+    "type": "single",
+    "isLatest": true,
+    "cover": "images/covers/brightons-yesterdays-girl-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/q5y6ly4jo82f5f0a6wmpx/brightons-yesterdays-girl-mp3.mp3?rlkey=4zf0wqtnhfxass2xr1mcrjlnx&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/q5y6ly4jo82f5f0a6wmpx/brightons-yesterdays-girl-mp3.mp3?rlkey=4zf0wqtnhfxass2xr1mcrjlnx&raw=1",
+    "videos": [],
+    "includeOnRadio": true,
+    "includeOnHomepage": true,
+    "explicit": false,
+    "tags": []
+  }
+]
