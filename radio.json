@@ -5,7 +5,7 @@
     "title": "Nicole in the Rain",
     "artist": "Brightons",
     "album": "The Last Good Summer",
-    "cover": "images/covers/brightons-nicole-in-the-rain-cover.png",
+    "cover": "https://raw.githubusercontent.com/stevep999/brightons/main/images/covers/brightons-nicole-in-the-rain-cover.png",
     "audioSrc": "https://www.dropbox.com/scl/fi/t9suftfr0k83z2punwruh/brightons-nicole-in-the-rain-mp3-v1.mp3?rlkey=zb7lv17xgx1a4t3nf0d03aic3&raw=1",
     "videos": []
   },
@@ -14,7 +14,7 @@
       "title": "Boardwalk Heartbeat",
       "artist": "Brightons",
       "album": "The Last Good Summer",
-      "cover": "images/covers/brightons-boardwalk-heartbeat-cover.png",
+      "cover": "https://raw.githubusercontent.com/stevep999/brightons/main/images/covers/brightons-boardwalk-heartbeat-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/3cyjio37a6jsqnsdnasd7/brightons-boardwalk-heartbeat-mp3.mp3?rlkey=s4vrobpup2n0zuft32fxtx62z&raw=1",
       "videos": []
     },
@@ -22,7 +22,7 @@
       "title": "Names in the Sand",
       "artist": "Brightons",
       "album": "The Last Good Summer",
-      "cover": "images/covers/brightons-names-in-the-sand-cover.png",
+      "cover": "https://raw.githubusercontent.com/stevep999/brightons/main/images/covers/brightons-names-in-the-sand-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/1gu88hwu1p25lpzrwgzr8/brightons-names-in-the-sand-mp3.mp3?rlkey=q2t914k2narvcuc0ut5jdejw5&raw=1",
       "videos": []
     },
@@ -30,7 +30,7 @@
       "title": "Nicole in the Rain",
       "artist": "Brightons",
       "album": "The Last Good Summer",
-      "cover": "images/covers/brightons-nicole-in-the-rain-cover.png",
+      "cover": "https://raw.githubusercontent.com/stevep999/brightons/main/images/covers/brightons-nicole-in-the-rain-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/t9suftfr0k83z2punwruh/brightons-nicole-in-the-rain-mp3-v1.mp3?rlkey=zb7lv17xgx1a4t3nf0d03aic3&raw=1",
       "videos": []
     },
@@ -38,7 +38,7 @@
       "title": "Yesterday's Girl",
       "artist": "Brightons",
       "album": "The Last Good Summer",
-      "cover": "images/covers/brightons-yesterdays-girl-cover.png",
+      "cover": "https://raw.githubusercontent.com/stevep999/brightons/main/images/covers/brightons-yesterdays-girl-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/q5y6ly4jo82f5f0a6wmpx/brightons-yesterdays-girl-mp3.mp3?rlkey=4zf0wqtnhfxass2xr1mcrjlnx&raw=1",
       "videos": []
     }

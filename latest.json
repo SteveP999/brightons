@@ -3,8 +3,8 @@
   "artist": "Brightons",
   "album": "The Last Good Summer",
   "type": "Latest Single",
-  "cover": "images/covers/brightons-nicole-in-the-rain-cover.png",
-  "image": "images/covers/brightons-nicole-in-the-rain-cover.png",
+  "cover": "https://raw.githubusercontent.com/stevep999/brightons/main/images/covers/brightons-nicole-in-the-rain-cover.png",
+  "image": "https://raw.githubusercontent.com/stevep999/brightons/main/images/covers/brightons-nicole-in-the-rain-cover.png",
   "audio": "https://www.dropbox.com/scl/fi/t9suftfr0k83z2punwruh/brightons-nicole-in-the-rain-mp3-v1.mp3?rlkey=zb7lv17xgx1a4t3nf0d03aic3&raw=1",
   "audioSrc": "https://www.dropbox.com/scl/fi/t9suftfr0k83z2punwruh/brightons-nicole-in-the-rain-mp3-v1.mp3?rlkey=zb7lv17xgx1a4t3nf0d03aic3&raw=1",
   "videos": []
