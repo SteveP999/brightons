@@ -2,18 +2,12 @@
   "artist": "Brightons",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "Yesterday's Girl",
+    "title": "We're All In this Together",
     "artist": "Brightons",
     "album": "The Last Good Summer",
-    "cover": "images/covers/brightons-yesterdays-girl-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/q5y6ly4jo82f5f0a6wmpx/brightons-yesterdays-girl-mp3.mp3?rlkey=4zf0wqtnhfxass2xr1mcrjlnx&raw=1",
-    "videos": [
-      {
-        "title": "Yesterday's Girl",
-        "youtube": "https://youtu.be/smE2f1v082g",
-        "order": 3
-      }
-    ]
+    "cover": "images/covers/brightons-were-all-in-this-together-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/yoas7vnwozxomc10765lw/brightons-were-all-in-this-together-mp3.mp3?rlkey=92mj20l7z24ybn44vokc8o1mu&raw=1",
+    "videos": []
   },
   "tracks": [
     {
@@ -52,6 +46,14 @@
       "album": "The Last Good Summer",
       "cover": "images/covers/brightons-nicole-in-the-rain-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/t9suftfr0k83z2punwruh/brightons-nicole-in-the-rain-mp3-v1.mp3?rlkey=zb7lv17xgx1a4t3nf0d03aic3&raw=1",
+      "videos": []
+    },
+    {
+      "title": "We're All In this Together",
+      "artist": "Brightons",
+      "album": "The Last Good Summer",
+      "cover": "images/covers/brightons-were-all-in-this-together-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/yoas7vnwozxomc10765lw/brightons-were-all-in-this-together-mp3.mp3?rlkey=92mj20l7z24ybn44vokc8o1mu&raw=1",
       "videos": []
     }
   ]
