@@ -2,12 +2,18 @@
   "artist": "Brightons",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "Good Night, Good Luck, Goodbye",
+    "title": "Yesterday's Girl",
     "artist": "Brightons",
     "album": "The Last Good Summer",
-    "cover": "images/covers/brightons-good-night-good-luck-goodbye-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/yprmerhjdh53hsboca9nf/brightons-goodbye-mp3.mp3?rlkey=bwcocefoba5izcfhjh8g0fuyo&raw=1",
-    "videos": []
+    "cover": "images/covers/brightons-yesterdays-girl-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/q5y6ly4jo82f5f0a6wmpx/brightons-yesterdays-girl-mp3.mp3?rlkey=4zf0wqtnhfxass2xr1mcrjlnx&raw=1",
+    "videos": [
+      {
+        "title": "Yesterday's Girl",
+        "youtube": "https://youtu.be/smE2f1v082g",
+        "order": 3
+      }
+    ]
   },
   "tracks": [
     {
